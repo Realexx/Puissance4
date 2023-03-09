@@ -1,4 +1,6 @@
 <?php
+// J'ai ajouté ce fichier, il a pour but de pouvoir configurer sa base de données et de s'y connecter.
+// On s'en servira lorsqu'il faudra ajouter les récapitulatifs des parties à la bdd. (Quand une partie se termine)
 
 // Paramètres de la base de données
 $dbhost = 'localhost';

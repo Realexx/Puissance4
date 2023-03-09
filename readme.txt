@@ -1,4 +1,0 @@
-- Je n'ai pas pu récupérer mon archive, car elle était entreposée sur le bureau et que les fichiers sur le bureau se font souvent nettoyer.
-- J'ai donc repris le projet de 0.
-- Les explications de ce que j'ai ajouté sont néanmoins dans les commentaires du code.
-- Un des premiers ajouts qu'on peut constater sans ouvrir le moindre fichier est la mise en place de l'architecture MVC.

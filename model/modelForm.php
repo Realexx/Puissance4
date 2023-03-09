@@ -1,4 +1,8 @@
 <?php
+// Ajout de ce Fichier, qui s'occupe de récolter les données saisies dans le formulaire si elles existent.
+// Il s'occupe de la gestion des erreurs, et de créer la variable de SESSION si tt est bon.
+// + Redirection de l'utilisateur sur la page de partie avec appel du controller Partie.
+
 session_start();
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

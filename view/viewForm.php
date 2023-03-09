@@ -1,3 +1,6 @@
+<!-- Ajout des vues à part : ici, c'est la vue pour le formulaire de l'index, on y affiche les erreurs dans le formulaire si besoin.
+ Si une partie est déjà en cours, on peut y accéder.
+ -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
