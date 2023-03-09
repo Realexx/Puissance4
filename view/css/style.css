@@ -1,0 +1,77 @@
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+label, p {
+    font-family: sans-serif;
+    font-size: large;
+}
+
+button[type=submit] {
+    border-radius: 10px;
+    font-size: large;
+    font-family: sans-serif;
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+a.resume {
+    border-radius: 10px;
+    font-size: large;
+    font-family: sans-serif;
+    background-color: #949191;
+    border: none;
+    color: #000000;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.error-message, .destruct {
+    font-family: sans-serif;
+    font-size: large;
+    color: #ff3e3e;
+}
+
+div.player {
+    font-size: large;
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+span.player-color {
+    margin-right: 10px;
+    padding: 0 10px 0 10px;
+    border-radius: 25px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+td {
+    border: black 2px solid;
+}
+
+td a {
+    display: block;
+    width: 100px;
+    height: 100px;
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    font-family: sans-serif;
+}
